@@ -1,0 +1,5 @@
+ID,DialogueID,ChoiceText,TargetSceneID,TargetSceneName,ChoiceIndex
+CHC_0001,DLG_0002,城に入る,scene_2,城内部,1
+CHC_0002,DLG_0002,引き返す,,村,2
+CHC_0003,DLG_0004,魔法使いと話す,,会話,1
+CHC_0004,DLG_0004,逃げる,scene_1,プロローグ,2

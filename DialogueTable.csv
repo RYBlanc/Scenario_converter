@@ -1,0 +1,5 @@
+ID,SceneID,SceneName,CharacterName,DialogueText,EmotionTag,NextDialogueID,HasChoices,ChoiceCount
+DLG_0001,scene_1,プロローグ,主人公,こんにちは、私は冒険者です。,Normal,DLG_0002,False,0
+DLG_0002,scene_1,プロローグ,ナレーター,あなたは古い城の前に立っています。,Normal,,True,2
+DLG_0003,scene_2,城内部,主人公,暗くて怖いですね。,Normal,DLG_0004,False,0
+DLG_0004,scene_2,城内部,魔法使い,ようこそ、勇敢な冒険者よ。,Normal,,True,2
